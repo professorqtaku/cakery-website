@@ -9,8 +9,8 @@ function Products() {
         <div className="pt-20 pb-20 px-6 max-w-7xl mx-auto">
             {/* Hero Section */}
             <section className="mb-20">
-                <div className="overflow-hidden rounded-3xl bg-neutral/20 min-h-[400px] flex flex-col md:flex-row items-center p-8">
-                    <div className="flex-1 z-10 max-w-2xl">
+                <div className="overflow-hidden rounded-3xl bg-neutral/20 min-h-[400px] flex flex-col md:flex-row md:items-center p-8">
+                    <div className="flex-1 z-10 md:max-w-2xl">
                         <span className="font-label text-xs font-bold tracking-[0.2em] text-tertiary uppercase mb-4 block">
                             The Artisanal Collection
                         </span>

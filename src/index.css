@@ -26,4 +26,8 @@ body {
 
 body {
   margin: 0;
+  font-family: var(--font-family-body);
+  color: var(--text);
+  background-color: var(--neutral);
+  min-height: 100vh;
 }
